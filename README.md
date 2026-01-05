@@ -37,7 +37,4 @@ Skills showcased include:
 ### Option A — Open directly
 Just open `index.html` in your browser.
 
-### Option B — Serve locally (recommended)
-Using Node:
-```bash
-npx serve .
+
